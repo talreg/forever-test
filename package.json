@@ -1,0 +1,20 @@
+{
+  "name": "forever-test",
+  "version": "1.0.0",
+  "description": "testing forever",
+  "main": "server.js",
+  "dependencies": {
+    "forever": "^0.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "forever start server.js",
+    "stop": "forever stop server.js"
+  },
+  "keywords": [
+    "forever-test"
+  ],
+  "author": "Tal Riginiano",
+  "license": "ISC"
+}
