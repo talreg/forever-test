@@ -5,7 +5,11 @@ While forever can be used as a global module, this test uses it as a local modul
 
 Requirements:
 ---
-This app was tested under `iojs-v3.2.0`. node 12 might work as well, but it wasn't tested there.
+This app was tested under `iojs-v3.2.0`. node 12 might work as well, but it wasn't tested with it.
+
+Installation
+--------
+just run `npm install` from the cloned folder.
 
 To start/stop the app:
 --------
